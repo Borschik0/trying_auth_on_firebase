@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767313270212",
+    "project_id": "testauth-b1022",
+    "storage_bucket": "testauth-b1022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767313270212:android:4b49b4c7b0aafdc0c44091",
+        "android_client_info": {
+          "package_name": "com.example.trying_auth_on_firebsae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767313270212-vroslf20is3q4mk7lalfsb37q3i8co9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ_z5lSH1zS1Mez75eJXiO6_WTR6Fo4VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767313270212-vroslf20is3q4mk7lalfsb37q3i8co9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
